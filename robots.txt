@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.zhenansuye.cn/sitemap.xml
